@@ -9,10 +9,10 @@
 ![Image of View Product](images/bamazonManagerViewProduct.png)
 
 ## bamazonManager.js Low Inventory Quantity
-![Image of Low Inventory](images/bamazonLowInventory.png)
+![Image of Low Inventory](images/bamazonManagerLowInventory.png)
 
 ## bamazonManager.js Add Inventory
-![Image of Add Inventory](images/bamazonAddInventory.png)
+![Image of Add Inventory](images/bamazonManagerAddInventory.png)
 
 ## bamazonManager.js Add Item
-![Image of Add Item](images/bamazonAddItem.png)
+![Image of Add Item](images/bamazonManagerAddItem.png)
